@@ -8,6 +8,7 @@ namespace StrategyPattern
     {
         static void Main(string[] args)
         {
+            #region Strategy Pattern
             Printer colorfulPrinter = new Printer(new ColorfulPrinting(), "Print me in color pls!");
             colorfulPrinter.doPrinting();
 
@@ -16,6 +17,7 @@ namespace StrategyPattern
 
             Printer multiDimentionPrinter = new Printer(new MultiDimentionPrinting(), "Print me in 3D pls!");
             multiDimentionPrinter.doPrinting();
+            #endregion
         }
     }
 }
