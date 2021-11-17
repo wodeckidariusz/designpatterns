@@ -1,0 +1,15 @@
+C:\Users\Daro\Documents\GitHubProjects\DesPatterns\DesignPatterns\StrategyPattern\bin\Debug\net5.0\StrategyPattern.exe
+C:\Users\Daro\Documents\GitHubProjects\DesPatterns\DesignPatterns\StrategyPattern\bin\Debug\net5.0\StrategyPattern.deps.json
+C:\Users\Daro\Documents\GitHubProjects\DesPatterns\DesignPatterns\StrategyPattern\bin\Debug\net5.0\StrategyPattern.runtimeconfig.json
+C:\Users\Daro\Documents\GitHubProjects\DesPatterns\DesignPatterns\StrategyPattern\bin\Debug\net5.0\StrategyPattern.runtimeconfig.dev.json
+C:\Users\Daro\Documents\GitHubProjects\DesPatterns\DesignPatterns\StrategyPattern\bin\Debug\net5.0\StrategyPattern.dll
+C:\Users\Daro\Documents\GitHubProjects\DesPatterns\DesignPatterns\StrategyPattern\bin\Debug\net5.0\ref\StrategyPattern.dll
+C:\Users\Daro\Documents\GitHubProjects\DesPatterns\DesignPatterns\StrategyPattern\bin\Debug\net5.0\StrategyPattern.pdb
+C:\Users\Daro\Documents\GitHubProjects\DesPatterns\DesignPatterns\StrategyPattern\obj\Debug\net5.0\StrategyPattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Daro\Documents\GitHubProjects\DesPatterns\DesignPatterns\StrategyPattern\obj\Debug\net5.0\StrategyPattern.AssemblyInfoInputs.cache
+C:\Users\Daro\Documents\GitHubProjects\DesPatterns\DesignPatterns\StrategyPattern\obj\Debug\net5.0\StrategyPattern.AssemblyInfo.cs
+C:\Users\Daro\Documents\GitHubProjects\DesPatterns\DesignPatterns\StrategyPattern\obj\Debug\net5.0\StrategyPattern.csproj.CoreCompileInputs.cache
+C:\Users\Daro\Documents\GitHubProjects\DesPatterns\DesignPatterns\StrategyPattern\obj\Debug\net5.0\StrategyPattern.dll
+C:\Users\Daro\Documents\GitHubProjects\DesPatterns\DesignPatterns\StrategyPattern\obj\Debug\net5.0\ref\StrategyPattern.dll
+C:\Users\Daro\Documents\GitHubProjects\DesPatterns\DesignPatterns\StrategyPattern\obj\Debug\net5.0\StrategyPattern.pdb
+C:\Users\Daro\Documents\GitHubProjects\DesPatterns\DesignPatterns\StrategyPattern\obj\Debug\net5.0\StrategyPattern.genruntimeconfig.cache
